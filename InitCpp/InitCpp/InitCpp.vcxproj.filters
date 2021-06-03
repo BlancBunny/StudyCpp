@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HumanClass.cpp">
+    <ClCompile Include="witnessMember.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
