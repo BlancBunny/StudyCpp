@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NestClass.cpp" />
+    <ClCompile Include="NonTypeArgument.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5c0cfeb6-e63b-465c-8e99-eed60241e2d7}</ProjectGuid>
-    <RootNamespace>Chapter6Inheritance</RootNamespace>
+    <ProjectGuid>{0a33728d-b3e5-4f5b-a45d-64b848998a5b}</ProjectGuid>
+    <RootNamespace>Chapter8Template</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

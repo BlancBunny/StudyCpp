@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 /*
 	실기 : 휘트니스 회원관리 프로그램
 	신규회원 등록은 회원 번호와 이름, 체중을 입력하고, heap 영역에 저장한다. -> malloc
