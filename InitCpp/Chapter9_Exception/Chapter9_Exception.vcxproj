@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NestTemplate.cpp" />
+    <ClCompile Include="tryfunc.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0a33728d-b3e5-4f5b-a45d-64b848998a5b}</ProjectGuid>
-    <RootNamespace>Chapter8Template</RootNamespace>
+    <ProjectGuid>{81b24d66-704a-49d4-9537-a6061169ed4b}</ProjectGuid>
+    <RootNamespace>Chapter9Exception</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

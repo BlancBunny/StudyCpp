@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_Polymorphism", "Ch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_Template", "Chapter8_Template\Chapter8_Template.vcxproj", "{0A33728D-B3E5-4F5B-A45D-64B848998A5B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_Exception", "Chapter9_Exception\Chapter9_Exception.vcxproj", "{81B24D66-704A-49D4-9537-A6061169ED4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{0A33728D-B3E5-4F5B-A45D-64B848998A5B}.Release|x64.Build.0 = Release|x64
 		{0A33728D-B3E5-4F5B-A45D-64B848998A5B}.Release|x86.ActiveCfg = Release|Win32
 		{0A33728D-B3E5-4F5B-A45D-64B848998A5B}.Release|x86.Build.0 = Release|Win32
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Debug|x64.ActiveCfg = Debug|x64
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Debug|x64.Build.0 = Debug|x64
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Debug|x86.Build.0 = Debug|Win32
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Release|x64.ActiveCfg = Release|x64
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Release|x64.Build.0 = Release|x64
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Release|x86.ActiveCfg = Release|Win32
+		{81B24D66-704A-49D4-9537-A6061169ED4B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
