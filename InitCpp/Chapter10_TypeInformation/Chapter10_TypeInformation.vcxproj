@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exretry.cpp" />
+    <ClCompile Include="MemPtr.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{81b24d66-704a-49d4-9537-a6061169ed4b}</ProjectGuid>
-    <RootNamespace>Chapter9Exception</RootNamespace>
+    <ProjectGuid>{52381cea-5668-46b2-90f5-3144f0561092}</ProjectGuid>
+    <RootNamespace>Chapter10TypeInformation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
